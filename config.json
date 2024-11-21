@@ -7,7 +7,7 @@
     "remote_password": "",
     "remote_hostname":"waf",
     "file_api_url": "https://soc.company.com/api/v1/files/",
-    "knowledge_id": "",
+    "knowledge_id": "OPEN_WEBUI_COLLECTION_ID",
     "remote_file_path": "/var/log/nginx/error.log",
     "local_file_path":"/var/log/kern.log",
     "temp_local_file_path": "/tmp/error_temp.log"
