@@ -1,0 +1,15 @@
+{
+    "api_key": "",
+    "remote": true,
+    "remote_host": "",
+    "remote_port": 22,
+    "remote_username": "",
+    "remote_password": "",
+    "remote_hostname":"waf",
+    "file_api_url": "https://helpdesk.unixfor.gr/api/v1/files/",
+    "knowledge_id": "",
+    "remote_file_path": "/var/log/nginx/error.log",
+    "local_file_path":"/var/log/kern.log",
+    "temp_local_file_path": "/tmp/error_temp.log"
+  }
+  
