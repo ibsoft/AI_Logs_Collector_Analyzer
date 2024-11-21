@@ -1,5 +1,5 @@
 {
-    "api_key": "",
+    "api_key": "OPEN_WEBUI_API_KEY",
     "remote": true,
     "remote_host": "",
     "remote_port": 22,
