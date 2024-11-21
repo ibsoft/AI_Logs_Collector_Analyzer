@@ -6,7 +6,7 @@
     "remote_username": "",
     "remote_password": "",
     "remote_hostname":"waf",
-    "file_api_url": "https://helpdesk.unixfor.gr/api/v1/files/",
+    "file_api_url": "https://soc.company.com/api/v1/files/",
     "knowledge_id": "",
     "remote_file_path": "/var/log/nginx/error.log",
     "local_file_path":"/var/log/kern.log",
