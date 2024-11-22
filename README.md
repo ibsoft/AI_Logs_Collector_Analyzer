@@ -1,5 +1,5 @@
 # AI_Logs_Collector_Analyzer
-Log collector from varius linux systems  for Open-WebUI 
+Log collector from various linux systems  for Open-WebUI 
 
 Upload every day your linux server logs to a collection of openwebui and then get reports about security insidents and more
 
